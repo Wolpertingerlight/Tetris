@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/App-Spring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/Battleship-game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/Bulls and Cows" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring_Web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TestProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WikipediaStatistics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/coffee_orders_system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercises_lab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_lab_project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_lab_project_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wiki-stats" vcs="Git" />
+  </component>
+</project>
